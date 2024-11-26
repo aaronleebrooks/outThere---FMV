@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44d9fc880e0c56645a1d3337a0db2325, type: 3}
+  m_Name: Watcher01_00
+  m_EditorClassIdentifier: 
+  id: 09808434-4405-4b4d-a0ce-3738423b14ae
+  title: B3W4R3_1_00
+  description: This is the description of a Watcher video. These should be omminous
+    tramsmissions that are attempting to warm Allen.
+  tags:
+  - Tags
+  - that
+  - are
+  - searchable
+  - watcher
+  date: December 25th 2019
+  length: 0:19
+  comments:
+  - username: demoUser69
+    commentText: Suck shit you fuck ass.
+  - username: Th3W4tCh3R
+    commentText: This is an ominous and maybe encoded comment.
+  - username: demoUser420
+    commentText: Fuck ass you suck shit.
+  videoClip: {fileID: 32900000, guid: fbc05ea76b224ef49a1e546a3bade4a6, type: 3}
+  thumbnail: {fileID: 21300000, guid: 71cd35ca6cb54e24c8bea194980175d1, type: 3}
+  isWatched: 0

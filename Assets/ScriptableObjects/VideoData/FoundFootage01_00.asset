@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44d9fc880e0c56645a1d3337a0db2325, type: 3}
+  m_Name: FoundFootage01_00
+  m_EditorClassIdentifier: 
+  id: d6deea23-1075-4729-a885-6fdcd575f37b
+  title: Found Footage 01_00
+  description: This is the description of a found footage video. This will be the
+    Agent's notes on the surviellence footage.
+  tags:
+  - Tags
+  - that
+  - are
+  - searchable
+  - found
+  date: February 3rd, 2023
+  length: 23:23
+  comments:
+  - username: Agent69420
+    commentText: 'Please try to remain silent unless neccesary '
+  videoClip: {fileID: 32900000, guid: b239ed9a39c16f741b64d6cff7f97973, type: 3}
+  thumbnail: {fileID: 21300000, guid: dd1988cfa18bcd344999eda1a807ce49, type: 3}
+  isWatched: 1
